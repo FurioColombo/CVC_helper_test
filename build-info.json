@@ -1,0 +1,10 @@
+{
+  "sourceCommit": "761530f820908db8355e1bcdd661bc8c6f495385",
+  "sourceDigest": "c6df27927a48127054f6d624424d28c19370b5776c26554351981a6660e1216d",
+  "gitSourceDigest": "fe6def9061a3693fc084b46b1deb8d2126ec904ea2d68ee67fb0e1c6af230e9f",
+  "version": "0.4.0",
+  "channel": "test",
+  "testUrl": "https://furiocolombo.github.io/CVC_helper_test/",
+  "ciUrl": "https://github.com/FurioColombo/CVC_helper/actions/runs/38857263745",
+  "builtAt": "2026-10-16T05:58:55.108Z"
+}
