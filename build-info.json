@@ -1,10 +1,10 @@
 {
-  "sourceCommit": "b8de760f1c7f8e398b8abcf58818ad8c3a8822c1",
-  "sourceDigest": "600f8ea16275ae041374611a664e94d70b818792f9d7fb14a275eeee5945e34c",
-  "gitSourceDigest": "9d9696cfc8927b1f35b328c44abef2160bf8a1c55842737d5366505699e48000",
-  "version": "0.5.0",
+  "sourceCommit": "5e09c8f4c097393475f6d9a2fbdabcc506bb2983",
+  "sourceDigest": "68bbcc64f522543ba9f4e6acdae7870d87a05c62265b0e49ba0fec06445ba015",
+  "gitSourceDigest": "f34e4575292b8d416f58b95dadc25ce66ba06308f1570e23a1c19d012117e9eb",
+  "version": "0.5.1",
   "channel": "test",
   "testUrl": "https://furiocolombo.github.io/CVC_helper_test/",
-  "ciUrl": "https://github.com/FurioColombo/CVC_helper/actions/runs/40268836916",
-  "builtAt": "2026-10-26T08:31:14.612Z"
+  "ciUrl": "https://github.com/FurioColombo/CVC_helper/actions/runs/40349274097",
+  "builtAt": "2026-10-26T16:37:11.951Z"
 }
